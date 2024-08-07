@@ -17,6 +17,8 @@
   - react-router
   - react-query
   - Fetch
+  - SASS
+  - module css
  
   Описание:
   Все данные мы храним на сервере в формате json.
